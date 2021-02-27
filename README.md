@@ -1,2 +1,2 @@
 # first-page
-My first web-site (about me)
+My first web-site (portfolio)
